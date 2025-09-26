@@ -1,1 +1,18 @@
-
+{
+  "template_version": "0.1-prototype",
+  "hazard": "FLOOD",
+  "incident_id": "2025-09-26-Saibai-FLOOD-001",
+  "severity": "Warning",
+  "area": "Saibai Island low-lying areas",
+  "effective_from": "2025-09-26T10:00:00+10:00",
+  "expected_until": "2025-09-27T10:00:00+10:00",
+  "msg": {
+    "en": "FLOOD WARNING: Water levels rising. Avoid low-lying areas. Move to higher ground if safe.",
+    "kkya": "FLOOD WRN: Water lebel igo up. Yauka ngadh, go up la high place, if safe."
+  },
+  "channels_hint": ["sms", "email", "voice", "meshtastic"],
+  "auto_fill": {
+    "issuer": "Saibai Disaster Management",
+    "contact": "07 0000 0000"
+  }
+}
