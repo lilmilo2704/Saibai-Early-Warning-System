@@ -1,0 +1,1234 @@
+{
+  "5066813e-9158-4d31-8116-62400e4b444b": {
+    "incident_id": "20250926152012-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:20:12",
+    "acknowledged": true
+  },
+  "9876b77a-d7ee-45ec-b787-f463bc970c8f": {
+    "incident_id": "20250926152012-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:20:12",
+    "acknowledged": true
+  },
+  "3e3cf873-c661-47cc-a6b2-bfb6d34a775a": {
+    "incident_id": "20250926152012-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:20:12",
+    "acknowledged": true
+  },
+  "113626b4-70c0-4468-9ed9-5bf3e8f98902": {
+    "incident_id": "20250926152012-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:20:12",
+    "acknowledged": true
+  },
+  "e14a8ea4-ef08-40f6-b907-3bdbca3a00c2": {
+    "incident_id": "20250926152012-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "retry_pending",
+    "attempts": 1,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:20:12",
+    "acknowledged": false
+  },
+  "64d6d4e2-c86a-4da2-9c24-5dc9586829e5": {
+    "incident_id": "20250926152012-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "ff09b2fb-0908-4d47-b45b-9ce1e446d426": {
+    "incident_id": "20250926152012-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "d73d92bd-af30-4d85-8650-c91302e7c2b5": {
+    "incident_id": "20250926152012-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "63d3f12b-f891-4d78-bf17-75fbf77805e4": {
+    "incident_id": "20250926152103-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:21:03",
+    "acknowledged": true
+  },
+  "e84f5fc6-9779-4d2d-9d72-3bed6c6fc7bb": {
+    "incident_id": "20250926152103-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "retry_pending",
+    "attempts": 1,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:21:03",
+    "acknowledged": false
+  },
+  "a174a391-ad64-4a85-a877-7a11f5121eb2": {
+    "incident_id": "20250926152103-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "77e21ee7-3774-4ec0-afff-e12ee0723e88": {
+    "incident_id": "20250926152103-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "396f9c11-55d1-45b2-84ce-2e2bf7cc9cd1": {
+    "incident_id": "20250926152103-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "1e381772-9960-4bb2-9153-12a1d79154f9": {
+    "incident_id": "20250926152103-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "037633c9-0aeb-42ec-b1fa-3ba2d41e80a0": {
+    "incident_id": "20250926152103-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "8785a882-6e78-4ec2-bafe-8edbf54c5abf": {
+    "incident_id": "20250926152103-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "ccdb82a2-43b3-4a82-9ff3-e9c6f9b14cdd": {
+    "incident_id": "20250926152141-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "retry_pending",
+    "attempts": 1,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:21:41",
+    "acknowledged": false
+  },
+  "fa4cec58-448c-4387-a8f3-ebb17b3a8e1b": {
+    "incident_id": "20250926152141-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "15632202-c0c7-410a-9bec-6d84bcc25a09": {
+    "incident_id": "20250926152141-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "e04ea941-8495-47e8-9cb0-7a1295f0e688": {
+    "incident_id": "20250926152141-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "a9a96ae7-073f-4c98-8d8b-7a32c1edd8ef": {
+    "incident_id": "20250926152141-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "e650355e-a77c-472a-af0e-a8b97e7b217b": {
+    "incident_id": "20250926152141-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "d4e8910e-08bb-4e47-809c-0eb9c5d92ab3": {
+    "incident_id": "20250926152141-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "0cdd09c6-df93-4a1b-83b0-4f698ba2a46c": {
+    "incident_id": "20250926152141-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "91bf480a-3a61-430d-8b60-271a08b0c94b": {
+    "incident_id": "20250926152340-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "retry_pending",
+    "attempts": 1,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:23:40",
+    "acknowledged": false
+  },
+  "18bde39b-a813-4e42-8dc1-b38679dd150f": {
+    "incident_id": "20250926152340-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "1be2b4f2-7db4-4bbb-8ddb-f024132c0657": {
+    "incident_id": "20250926152340-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "012111c4-56ca-4a46-a4a5-bbb27e021387": {
+    "incident_id": "20250926152340-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "56441298-fa73-410e-88c6-86b80975dac4": {
+    "incident_id": "20250926152340-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "ca9300f1-9093-4e8a-8307-ce2829255401": {
+    "incident_id": "20250926152340-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "bb6419af-26c1-4027-b3cf-4b6674b2756b": {
+    "incident_id": "20250926152340-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "ef3ce0d0-c1fb-4af6-946f-aaaf1606d620": {
+    "incident_id": "20250926152340-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "7a6ea58c-8f38-422c-b843-c4310ab0679b": {
+    "incident_id": "20250926152443-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:24:43",
+    "acknowledged": true
+  },
+  "b0031624-0463-4e8d-acfe-4630092a83e8": {
+    "incident_id": "20250926152443-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "retry_pending",
+    "attempts": 1,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:24:43",
+    "acknowledged": false
+  },
+  "93087796-e748-488b-af18-a18dc7dd2a10": {
+    "incident_id": "20250926152443-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "0e3f3859-b483-4228-b0c8-06f81318a42b": {
+    "incident_id": "20250926152443-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "1cf8e62b-cd3d-4eca-ac90-177e036e1700": {
+    "incident_id": "20250926152443-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "e8cf04f2-2dc8-4ff4-a94d-73a97dcef142": {
+    "incident_id": "20250926152443-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "9d112f3c-e325-4d06-8018-bec1d9352227": {
+    "incident_id": "20250926152443-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "05bd2174-281d-4891-b0af-d5abfee33fa6": {
+    "incident_id": "20250926152443-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "0ce65566-6d4d-4563-ae6a-b75a4353a42c": {
+    "incident_id": "20250926152927-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:29:27",
+    "acknowledged": true
+  },
+  "ed55a431-6b51-4b75-9642-d7ada3a64eee": {
+    "incident_id": "20250926152927-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:29:27",
+    "acknowledged": true
+  },
+  "474a88dd-9c33-4812-8ea8-202942d6ef42": {
+    "incident_id": "20250926152927-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:29:27",
+    "acknowledged": true
+  },
+  "cb43d154-e209-4748-9337-7b79b8c587d6": {
+    "incident_id": "20250926152927-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "retry_pending",
+    "attempts": 1,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:29:27",
+    "acknowledged": false
+  },
+  "3eef7e56-57b9-4f82-8028-b957f467b869": {
+    "incident_id": "20250926152927-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "71699862-009c-4819-a864-9a3111728783": {
+    "incident_id": "20250926152927-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "0f03e68a-1d6a-4a07-9860-6fe949ae2403": {
+    "incident_id": "20250926152927-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "a9238b42-b6fa-427e-869e-75b332ca9b4d": {
+    "incident_id": "20250926152927-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "05a692d6-5bbc-4412-8780-685ee395cd5e": {
+    "incident_id": "20250926153535-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "retry_pending",
+    "attempts": 1,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:35:35",
+    "acknowledged": false
+  },
+  "e2cca6e4-0831-40dc-80d1-d257dd18d97d": {
+    "incident_id": "20250926153535-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "9d8440c8-385f-4f7a-a8ce-ee1b646399a9": {
+    "incident_id": "20250926153535-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "3d93b576-abe2-4606-975c-92d6ecb9e215": {
+    "incident_id": "20250926153535-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "4756e5a4-0fc0-4b14-a28c-5de6bbe5f1e6": {
+    "incident_id": "20250926153535-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "6ac053bb-d81c-4ebc-a1b7-3218ec617bbf": {
+    "incident_id": "20250926153535-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "8d3a3a4c-3c5e-4054-a49c-7ee8e340b096": {
+    "incident_id": "20250926153535-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "526714d9-f1f7-4977-af93-c592afa8311f": {
+    "incident_id": "20250926153535-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "53e6671d-07f4-43fd-8664-ebbe1b377968": {
+    "incident_id": "20250926154021-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "retry_pending",
+    "attempts": 1,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:40:21",
+    "acknowledged": false
+  },
+  "7f663acd-be2e-48ad-b035-ef65e3299da8": {
+    "incident_id": "20250926154021-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "cabcb36d-4fb4-40b7-ad2f-1e0ff04bffa3": {
+    "incident_id": "20250926154021-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "628bbd52-7ac4-499e-b46d-7f31be8997ae": {
+    "incident_id": "20250926154021-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "62be3961-7d67-4a7c-b824-c95af72f35e2": {
+    "incident_id": "20250926154021-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "6d41a836-5c77-489d-b81e-c9053337a697": {
+    "incident_id": "20250926154021-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "8a27615c-f009-4975-bf80-2e0db52dc190": {
+    "incident_id": "20250926154021-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "73a080e6-c90b-4f6a-98f3-c22fb169136e": {
+    "incident_id": "20250926154021-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "e760b573-5b92-4788-bb5b-c953458dd700": {
+    "incident_id": "20250926154437-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "8fab2d70-3d13-443d-a47f-fe63abc558ac": {
+    "incident_id": "20250926154437-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "532c18d7-e877-466b-b95f-dbb04f80f1f6": {
+    "incident_id": "20250926154437-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "250f4c6f-dae0-44a1-8f2d-2f5d551eedeb": {
+    "incident_id": "20250926154437-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "41fd0c10-a8c6-4625-982d-c4d78409d481": {
+    "incident_id": "20250926154437-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "f5f5b2f8-d2d6-4b5e-bf5f-a86ce905b2c5": {
+    "incident_id": "20250926154437-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "00374e93-ba3b-4253-9538-b0554c4e16bb": {
+    "incident_id": "20250926154437-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "d1c087bc-c470-4e89-9937-9c63cac9a8ca": {
+    "incident_id": "20250926154437-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "queued",
+    "attempts": 0,
+    "channel_index": 0,
+    "last_attempt": null,
+    "acknowledged": false
+  },
+  "1c3c3844-5494-4cef-aa60-2296f708e12d": {
+    "incident_id": "20250926154806-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:07",
+    "acknowledged": true
+  },
+  "a7145e0e-dd3c-49e4-9de0-99cb29dd6422": {
+    "incident_id": "20250926154806-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:07",
+    "acknowledged": true
+  },
+  "d9e7573a-a505-405a-9700-cf625ebfda92": {
+    "incident_id": "20250926154806-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "delivered",
+    "attempts": 2,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:48:07",
+    "acknowledged": true
+  },
+  "8f8e29b2-06b6-418b-92e8-88d356c88b33": {
+    "incident_id": "20250926154806-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:07",
+    "acknowledged": true
+  },
+  "aead5241-299c-4fbf-b411-6118c2768fb7": {
+    "incident_id": "20250926154806-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:07",
+    "acknowledged": true
+  },
+  "296982b6-4a10-491d-844c-3d0109eb404c": {
+    "incident_id": "20250926154806-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:07",
+    "acknowledged": true
+  },
+  "b2f3b280-7160-4271-995d-e5398a1bd4f4": {
+    "incident_id": "20250926154806-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:07",
+    "acknowledged": true
+  },
+  "caf7d7da-f013-44a8-a4d5-5ee2a15a715b": {
+    "incident_id": "20250926154806-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:07",
+    "acknowledged": true
+  },
+  "d869e93d-7947-4ebc-9bb2-7ee150971f69": {
+    "incident_id": "20250926154849-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "delivered",
+    "attempts": 2,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:48:49",
+    "acknowledged": true
+  },
+  "9550dcbf-113a-4bf9-8854-a90a324c97bf": {
+    "incident_id": "20250926154849-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:49",
+    "acknowledged": true
+  },
+  "b1d7cfbb-6be4-4ddf-8c07-48465f3bb38a": {
+    "incident_id": "20250926154849-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:49",
+    "acknowledged": true
+  },
+  "31080047-ad20-4349-ba9d-4421362c794b": {
+    "incident_id": "20250926154849-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:49",
+    "acknowledged": true
+  },
+  "bd3293ec-19df-4e72-829b-26caf3502176": {
+    "incident_id": "20250926154849-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Saibai Council Duty Officer",
+      "email": "duty@saibai.local",
+      "phone": "+61-400-000-001",
+      "voice": "+61-400-000-001"
+    },
+    "status": "delivered",
+    "attempts": 2,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:48:49",
+    "acknowledged": true
+  },
+  "676daaad-cf4b-49d8-8b0b-ffe0ad921c3e": {
+    "incident_id": "20250926154849-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "TSLDMG Coordinator",
+      "email": "coord@tsldmg.qld",
+      "phone": "+61-400-000-010",
+      "voice": "+61-400-000-010"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:49",
+    "acknowledged": true
+  },
+  "f4aaa50b-693b-4c9f-a62c-3604b5e3afb6": {
+    "incident_id": "20250926154849-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Ambulance Station (Thursday Island)",
+      "email": "ambo@ti.qld",
+      "phone": "+61-400-000-101",
+      "voice": "+61-400-000-101"
+    },
+    "status": "delivered",
+    "attempts": 1,
+    "channel_index": 0,
+    "last_attempt": "2025-09-26T15:48:49",
+    "acknowledged": true
+  },
+  "951ebb71-943f-4785-a39a-895b5d88094a": {
+    "incident_id": "20250926154849-Saibai-FLOOD-GUI",
+    "contact": {
+      "name": "Fire Station (Thursday Island)",
+      "email": "fire@ti.qld",
+      "phone": "+61-400-000-102",
+      "voice": "+61-400-000-102"
+    },
+    "status": "delivered",
+    "attempts": 2,
+    "channel_index": 1,
+    "last_attempt": "2025-09-26T15:48:49",
+    "acknowledged": true
+  }
+}
