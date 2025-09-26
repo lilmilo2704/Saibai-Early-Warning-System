@@ -1,0 +1,20 @@
+rules:
+  FLOOD:
+    recipients: ["saibai_officials", "tsldmg", "agencies_thursday_island"]
+    severity_channels:
+      Watch: ["email", "sms"]
+      Advice: ["email", "sms"]
+      Warning: ["sms", "email", "voice", "meshtastic"]
+      Emergency: ["voice", "sms", "meshtastic", "radio"]
+  CYCLONE:
+    recipients: ["saibai_officials", "tsldmg"]
+    severity_channels:
+      Advice: ["email", "sms"]
+      Warning: ["voice", "sms", "email", "meshtastic"]
+      Emergency: ["voice", "sms", "meshtastic", "radio"]
+  BUSHFIRE:
+    recipients: ["saibai_officials"]
+    severity_channels:
+      Advice: ["email"]
+      WatchAndAct: ["sms", "email", "meshtastic"]
+      Emergency: ["sms", "meshtastic", "voice", "radio"]

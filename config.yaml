@@ -1,0 +1,48 @@
+org: "TSIRC / Saibai EWS"
+retry_policy:
+  max_attempts: 5
+  initial_seconds: 10
+  backoff_factor: 2
+ack_timeout_seconds: 180
+
+contacts:
+  groups:
+    saibai_officials:
+      - name: "Saibai Council Duty Officer"
+        email: "duty@saibai.local"
+        phone: "+61-400-000-001"
+        voice: "+61-400-000-001"
+    tsldmg:
+      - name: "TSLDMG Coordinator"
+        email: "coord@tsldmg.qld"
+        phone: "+61-400-000-010"
+        voice: "+61-400-000-010"
+    agencies_thursday_island:
+      - name: "Ambulance Station (Thursday Island)"
+        email: "ambo@ti.qld"
+        phone: "+61-400-000-101"
+        voice: "+61-400-000-101"
+      - name: "Fire Station (Thursday Island)"
+        email: "fire@ti.qld"
+        phone: "+61-400-000-102"
+        voice: "+61-400-000-102"
+
+channels:
+  order_default: ["email", "sms", "voice", "meshtastic", "radio"]
+  order_by_hazard:
+    FLOOD: ["sms", "email", "voice", "meshtastic", "radio"]
+    CYCLONE: ["voice", "sms", "email", "meshtastic", "radio"]
+    BUSHFIRE: ["sms", "meshtastic", "email", "voice", "radio"]
+
+meshtastic:
+  max_chars: 200
+  shorthand_map:
+    WARNING: "WRN"
+    EVACUATE: "EVAC"
+    IMMEDIATELY: "IMMED"
+    METRES: "m"
+    KILOMETRES: "km"
+
+serial:
+  arduino_port: "COM3"
+  baud: 9600
